@@ -1,2 +1,1 @@
-# hello-
-This repository is for practising the GitHub Flow.
+Pham Hoang Minh Thu
