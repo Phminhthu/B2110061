@@ -1,3 +1,1 @@
-# hello-world
-This repository is for practising the GitHub Flow.
-PHMT
+Pham Hoang Minh Thu
